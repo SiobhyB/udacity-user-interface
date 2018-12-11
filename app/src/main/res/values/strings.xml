@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Hello World!</string>
+
+    <string name="business_name">Flourish and Blotts</string>
+
+    <string name="business_promotion">Currently taking advance orders for \n\'The Life and Lies of Albus Dumbledore.\'</string>
+
+    <string name="business_details">Located: North Side, Diagon Alley. \nEstablished: 1454.</string>
+</resources>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:scaleType="centerCrop"
+        android:src="@drawable/flourishandblotts"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="20dp"
+        android:text="@string/business_name"
+        android:textAlignment="center"
+        android:textColor="@color/colorSecondary"
+        android:background="@color/colorPrimary"
+        android:textSize="36sp" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerVertical="true"
+        android:text="@string/business_promotion"
+        android:textSize="18sp"
+        android:textAlignment="center"
+        android:textColor="@color/colorPrimary"
+        android:background="@color/colorSecondary"
+        android:padding="20dp"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:text="@string/business_details"
+        android:textSize="12sp"
+        android:textColor="@color/colorSecondary"
+        android:background="@color/colorPrimary"
+        android:padding="20dp"/>
+</RelativeLayout>
