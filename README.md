@@ -1,4 +1,4 @@
-# Flourish and Blotts | Project for Udacity's User Interface module
+# Flourish and Blotts
 A simple, single-screen app that displays info about a fictional business, in this case **Flourish and Blotts**. 📚 🤓
 
 This app was created for the **User Interface** module of Udacity's **Android Basics Nanodegree by Google**. Feel welcome to use the code for your own learning!
